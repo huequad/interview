@@ -34,7 +34,7 @@
 - 자신만의 Custom View를 만들려면 어떻게 해야하는지 설명하시오.
 - View 객체에 대해 설명하시오.
 - UIView 에서 Layer 객체는 무엇이고 어떤 역할을 담당하는지 설명하시오.
-- UIWindow 객체의 역할은 무엇인가?
+- [UIWindow 객체의 역할은 무엇인가?](https://github.com/huequad/interview/issues/4)
 - UINavigationController 의 역할이 무엇인지 설명하시오.
 - TableView를 동작 방식과 화면에 Cell을 출력하기 위해 최소한 구현해야 하는 DataSource 메서드를 설명하시오.
 - 하나의 View Controller 코드에서 여러 TableView Controller 역할을 해야 할 경우 어떻게 구분해서 구현해야 하는지 설명하시오.
