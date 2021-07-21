@@ -18,7 +18,7 @@
 - 앱이 In-Active 상태가 되는 시나리오를 설명하시오.
 - scene delegate에 대해 설명하시오.
 - UIApplication 객체의 컨트롤러 역할은 어디에 구현해야 하는가?
-- App의 Not running, Inactive, Active, Background, Suspended에 대해 설명하시오.
+- [App의 Not running, Inactive, Active, Background, Suspended에 대해 설명하시오.](https://github.com/huequad/interview/issues/7)
 ###
 - NSOperationQueue 와 GCD Queue 의 차이점을 설명하시오.
 - GCD API 동작 방식과 필요성에 대해 설명하시오.
