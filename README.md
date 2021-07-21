@@ -95,7 +95,7 @@
 
 ## Architecture
 - MVVM, Ribs, VIP 등 자신이 알고있는 아키텍쳐를 설명하시오.
-- 의존성 주입에 대하여 설명하시오.
+- [의존성 주입에 대하여 설명하시오.](https://github.com/huequad/interview/issues/6)
 
 # Optional
 아래부터는 추가로 공부를 하면 좋을 내용들입니다.
