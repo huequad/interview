@@ -41,7 +41,7 @@
 - [setNeedsLayout와 setNeedsDisplay의 차이에 대해 설명하시오.](https://github.com/huequad/interview/issues/3)
 ###
 - NSCache와 딕셔너리로 캐시를 구성했을때의 차이를 설명하시오.
-- URLSession에 대해서 설명하시오.
+- [URLSession에 대해서 설명하시오.](https://github.com/huequad/interview/issues/9)
 - prepareForReuse에 대해서 설명하시오.
 - 다크모드를 지원하는 방법에 대해 설명하시오.
 
